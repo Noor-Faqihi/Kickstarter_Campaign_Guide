@@ -6,10 +6,10 @@ This project focuses on analyzing Kickstarter campaigns to identify key factors 
 
 By performing exploratory data analysis (EDA), this project aims to:
 
-Identify patterns and trends in successful Kickstarter campaigns.
-Understand the impact of factors such as campaign length, funding goals, and launch timing.
-Provide actionable recommendations for project founders to optimize their campaigns.
-This analysis can help creators enhance their campaign strategies, improve backer engagement, and ultimately increase the likelihood of funding success, leading to better outcomes for both project founders and backers.
+1-Identify patterns and trends in successful Kickstarter campaigns.
+2-Understand the impact of factors such as campaign length, funding goals, and launch timing.
+3-Provide actionable recommendations for project founders to optimize their campaigns.
+4-This analysis can help creators enhance their campaign strategies, improve backer engagement, and ultimately increase the likelihood of funding success, leading to better outcomes for both project founders and backers.
 
 
 ## How to run

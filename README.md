@@ -21,6 +21,11 @@ Upload the raw dataset found in "kickstarters_dataset" to you google drive
 
 
 
+
+# Dataset
+<div style = "text-align: right">The dataset contains information from various Kickstarter projects, with a total of 4,448 entries. Each project is described by 16 variables, which include details such as project ID, name, URL, category, subcategory, location, status, funding goal, amount pledged, percentage funded, number of backers, funded date, reward levels, updates, comments, and project duration. These variables provide insights into the success and characteristics of different crowdfunding campaigns, helping to analyze trends in project outcomes, funding strategies, and backer engagement.
+
+
 Jupyter Notebook/Lab Users: 
 - Download the dataset and the notebook
 - Make sure that the dataset is in the same folder as the notebook
@@ -28,3 +33,4 @@ Jupyter Notebook/Lab Users:
 - Run all cells
 
 
+# Machine Learning Framework Implementation

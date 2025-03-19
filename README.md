@@ -24,5 +24,5 @@ Jupyter Notebook/Lab Users:
 - Uncomment the "cell"
 - Run all cells
 
-![ff](https://shorturl.at/A0hnh)
+![ff](https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=1350)
 

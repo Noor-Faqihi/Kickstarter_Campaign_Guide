@@ -1,4 +1,4 @@
-![ff](https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=1350)
+![ff](https://newlightdigital.com/wp-content/uploads/2023/08/Marketing-Strategies-Any-Business.png)
 
 # Kickstarter_Campaign_Guide
 Kickstarter Campaign: Exploratory data analysis project.

@@ -26,10 +26,10 @@ The following is a list of libraries used in this project:-
 Data Manipulation: packages like pandas and numpy that are used to handle and import datasets.
 import pandas as pd
 import numpy as np
+
 Data Visualization: packages that were used to plot graphs for analysis or to comprehend matplotlib and seaborn.
 import matplotlib.pyplot as plt matplotlib was used to create basic visualizations like bar charts and histograms
 import seaborn as sns: builds more advanced and aesthetically pleasing plots, such as heatmaps and pair plots, to explore relationships in the data. Together, these libraries enable efficient analysis and visualization of medical appointment no-shows.
-
 
 # Dataset
 
@@ -57,16 +57,6 @@ The dataset includes **4,448 Kickstarter projects**, described by **16 variables
 | Updates              | int64     | The number of updates provided by the project creator.                                         |
 | Comments             | int64     | The number of comments made by backers or the public.                                         |
 | Duration             | float64   | The duration of the funding period in days.                                                   |
-
-
-
-
-
-Jupyter Notebook/Lab Users: 
-- Download the dataset and the notebook
-- Make sure that the dataset is in the same folder as the notebook
-- Uncomment the "cell"
-- Run all cells
 
 
 # Machine Learning Framework Implementation

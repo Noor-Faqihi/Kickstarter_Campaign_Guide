@@ -1,6 +1,6 @@
 ![ff](https://newlightdigital.com/wp-content/uploads/2023/08/Marketing-Strategies-Any-Business.png)
 
-# Kickstarter_Campaign_Guide
+# Analyzing Kickstarter Campaigns: A Path to Crowdfunding Success
 Kickstarter Campaign: Exploratory data analysis project.
 
 Description

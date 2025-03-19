@@ -3,6 +3,7 @@
 # Analyzing Kickstarter Campaigns: A Path to Crowdfunding Success
 Kickstarter Campaign: Exploratory data analysis project.
 
+#Project Overview
 Description
 <div style = "text-align: right">This project focuses on analyzing Kickstarter campaigns to identify key factors that contribute to successful crowdfunding efforts. Successful campaigns not only help project founders achieve their funding goals but also enhance the overall effectiveness of the Kickstarter platform.The goal of this project is to uncover insights that can guide creators in developing more effective crowdfunding strategies.</div>
 

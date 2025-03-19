@@ -28,7 +28,6 @@ The dataset includes **4,448 Kickstarter projects**, described by **16 variables
 
 **Kickstarter** is a crowdfunding platform that allows creators to fund their projects through small contributions from a large number of people. It supports a wide range of categories, including art, technology, film, and music, enabling innovators to bring their ideas to life while engaging with a community of backers.
 
-<div style = "text-align: right">The dataset contains information from various Kickstarter projects, with a total of 4,448 entries. Each project is described by 16 variables, which include details such as project ID, name, URL, category, subcategory, location, status, funding goal, amount pledged, percentage funded, number of backers, funded date, reward levels, updates, comments, and project duration. These variables provide insights into the success and characteristics of different crowdfunding campaigns, helping to analyze trends in project outcomes, funding strategies, and backer engagement.
 
 | Variable             | Type      | Description                                                                                     |
 |----------------------|-----------|-------------------------------------------------------------------------------------------------|

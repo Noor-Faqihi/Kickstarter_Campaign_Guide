@@ -24,5 +24,5 @@ Jupyter Notebook/Lab Users:
 - Uncomment the "cell"
 - Run all cells
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fpremium%2Farticle%2Fcats-facial-expressions-pets-behavior&psig=AOvVaw23kXIWvnqyi2mHTKvlxq43&ust=1742466524854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiLwuP3lYwDFQAAAAAdAAAAABAE)
+![](https://shorturl.at/A0hnh)
 

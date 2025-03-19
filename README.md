@@ -14,7 +14,7 @@ By performing exploratory data analysis (EDA), this project aims to:
 3. Provide actionable recommendations for project founders to optimize their campaigns.
 4. This analysis can help creators enhance their campaign strategies, improve backer engagement, and ultimately increase the likelihood of funding success, leading to better outcomes for both project founders and backers.
 
-
+# Data
 ## How to run
 Google Colab Users:
 Upload the raw dataset found in "kickstarters_dataset" to you google drive 

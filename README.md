@@ -1,10 +1,22 @@
 # Kickstarter_Campaign_Guide
+Kickstarter Campaign: Exploratory data analysis project.
+
+Description
+This project focuses on analyzing Kickstarter campaigns to identify key factors that contribute to successful crowdfunding efforts. Successful campaigns not only help project founders achieve their funding goals but also enhance the overall effectiveness of the Kickstarter platform. The goal of this project is to uncover insights that can guide creators in developing more effective crowdfunding strategies.
+
+By performing exploratory data analysis (EDA), this project aims to:
+
+Identify patterns and trends in successful Kickstarter campaigns.
+Understand the impact of factors such as campaign length, funding goals, and launch timing.
+Provide actionable recommendations for project founders to optimize their campaigns.
+This analysis can help creators enhance their campaign strategies, improve backer engagement, and ultimately increase the likelihood of funding success, leading to better outcomes for both project founders and backers.
 
 
 ## How to run
-
 Google Colab Users:
-Upload the raw dataset found in "name of the folder" to you google drive 
+Upload the raw dataset found in "kickstarters_dataset" to you google drive 
+
+
 
 Jupyter Notebook/Lab Users: 
 - Download the dataset and the notebook
@@ -12,4 +24,3 @@ Jupyter Notebook/Lab Users:
 - Uncomment the "cell"
 - Run all cells
 
-mmmmmmmm

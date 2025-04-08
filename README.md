@@ -59,4 +59,4 @@ The dataset includes **4,448 Kickstarter projects**, described by **16 variables
 | Duration             | float64   | The duration of the funding period in days.                                                   |
 
 
-# Machine Learning Framework Implementation
+
